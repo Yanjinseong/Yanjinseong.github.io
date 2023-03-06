@@ -26,7 +26,7 @@ sidebar_main: true
 - 2023 HCI KOREA 포스터 게재(직관적 인터페이스 기반 증강현실 특수효과 생성 및 제어)
 
 ## TECH SKILLS
-개발의 처음 시작은 C로 하였습니다. 이후 자료구조, 알고리즘 등을 공부하기 위하여 C++을 학습하였습니다. 학부에는 물리 코딩 과목의 조교를 하기 위해 GlowScript환경에서 VPython을 학습하였습니다. 석사 과정에 진학하게 되면서 학교에서 전학년을 대상으로 운영하는 기초코딩 수업의 진행을 위해 Python 또한 학습하였습니다. VR/AR 콘텐츠 제작 및 석사 연구에서는 Unity를 활용, C#을 통해 프로그램을 제작하였으며 이 과정에서 Pytorch를 이용한 Machine Learning 기술 또한 습득하였습니다.
+개발의 처음 시작은 C로 하였습니다. 이후 자료구조, 알고리즘 등을 공부하기 위하여 C++을 학습하였습니다. 물리 코딩 과목의 조교를 하기 위해 GlowScript환경에서 VPython을 학습하였습니다. 석사 과정에 진학하게 되면서 학교에서 전학년을 대상으로 운영하는 기초코딩 수업의 진행을 위해 Python 또한 학습하였습니다. VR/AR 콘텐츠 제작 및 석사 연구에서는 Unity를 활용, C#을 통해 프로그램을 제작하였으며 이 과정에서 Pytorch를 이용한 Machine Learning 기술 또한 습득하였습니다.
 
 - Unity
 - C / C++ / C# / Python / VPython
@@ -76,3 +76,36 @@ sidebar_main: true
 
 ## What I Do?
 저는 이런 “경험” 들도 해봤습니다.
+
+
+현재 개발로서는 큰 도움은 되지 않을 수 있지만, 회사에서 필요로 한다면 이런 역량도 가지고 있습니다.
+
++ 스위스 워크샵
+
+![HAN]({{site.url}}/images/about/HAN.jpg){: .img-width-half}
+
+세종대학교 초실감XR연구센터, Disney Reasearch, ETH Zurich와 함께하는 공동 프로젝트를 통해 스위스에서 연구 관련 워크샵에 참여하였습니다.
+
++ 교내 코딩 경시대회 수상
+
+세종대학교에서 진행하는 교내 코딩 경시대회에서 2019년에는 4등, 2020년에는 3등을 수상하였습니다.
+
++ 국내 학술 대회 포스터
+
+  ![HCI_POSTER_page-0001]({{site.url}}/images/about/HCI_POSTER_page-0001-1678079209268-5.jpg){: .img-width-half}
+  
+  ![POSTER]({{site.url}}/images/about/POSTER.jpg){: .img-width-half}
+
+2023년 강원도 정선에서 진행된 HCI KOREA 학술대회에 “직관적 인터페이스 기반 증강현실 특수효과 생성 및 제어” 포스터를 게재하였습니다.
+
++ 국내, 국제 특허 출헌
+
+2022년에 국내 특허 출원 10-2022-0165636(객체 인식 기반 지능형 특수효과 생성 장치 및 방법), 제 특허 출원 18/115,161(APPARATUS AND METHOD FOR CREATING INTELLIGENT SPECIAL EFFECTS BASED ON OBJECT RECOGNITION)을 하였습니다.
+
++ K-MOOC 일반인을 위한 물리코딩
+
+2020년 K-MOOC “일반인을 위한 물리 코딩” 강좌를 이수하였습니다.
+
++ 기초코딩 총괄 조교
+
+2021~2022년 2년 동안 세종대학교의 신입생이 모두 수강하는 파이썬 과목에 대한 총괄, 운영 및 수업을 담당하였습니다. 
